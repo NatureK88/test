@@ -13,7 +13,7 @@
 
 
 /* 右上社交图标变大 */
-.VPSocialLink[data-v-67d207bd]>svg {
-    width: 32px;
-    height: 32px;
+.VPSocialLink>svg {
+    width: 32px !important;
+    height: 32px !important;
 }
