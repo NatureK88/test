@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CS3OTpco.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/物理/index.md","filePath":"docs/物理/index.md","lastUpdated":1717071532000}'),o={name:"docs/物理/index.md"};function s(d,n,c,r,i,p){return a(),t("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};
